@@ -3,8 +3,6 @@
 # ⚡ Hi there, I'm Khushboo Bansal 👋
 
 ## Software Engineer | Backend Specialist | Data & Systems Enthusiast
-- Data engineering pipelines
-- AI agent implementations
 
 [![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
