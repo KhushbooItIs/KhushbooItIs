@@ -17,7 +17,7 @@
 
 > I started with Electrical Engineering, discovered my love for data, and evolved into a full-stack problem solver who speaks fluent Python and SQL.
 
-**2.5 years** of transforming business challenges into elegant code. From optimizing **₹67 Cr in revenue** at Tata 1mg to reducing database latency by **40%** at Linarc, I thrive at the intersection of data, backend systems, and business impact.
+**1.5 years** of transforming business challenges into elegant code. From optimizing **₹67 Cr in revenue** at Tata 1mg to reducing database latency by **40%**, I thrive at the intersection of data, backend systems, and business impact.
 
 ### 🎯 What Drives Me
 
